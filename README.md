@@ -8,4 +8,5 @@ All blackening parts which durin eayrs lost black couting was restore by origina
        
 
 <img src="start here/1.jpg" alt="drawing" width="200"/>
+![](https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1.jpg =250x)
 # nadpis
