@@ -7,5 +7,5 @@ All blackening parts which durin eayrs lost black couting was restore by origina
      and later i lern how do it end some smole parts i blackening my self .  
        
 
-
+<img src="start here/1.jpg" alt="drawing" width="200"/>
 # nadpis
