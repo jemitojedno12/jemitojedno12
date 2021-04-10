@@ -28,7 +28,7 @@ Most tools came from auction of companies specializeted in engeneering so fo exa
 Because github has data restriction i chose only few pictures from each part of lathe ,you can see how the all proces run,some videos from setting will display like link and will direct you on youtube chanel ,
 
           WHY I HAVE TO SALE MY LATHE 
-Somebody will now it - it start like passion and opportunity to fulfill your dream and then life properly kik your ass and you have to reconsider your situation ,
+Somebody will know it - it start like passion and opportunity to fulfill your dream and then life properly kik your ass and you have to reconsider your situation ,
 So in this moment we have to move in smoler appartment lathe is in us bedroom and my wife time to time trips on lathe SO AND HERE IS END OF STORRY FOR ANY MENS TOY !!!
 Shis patiente is not endless and even i understant in appartment i cannot use it so I LIKE TO SALE IT !!! 
 Lathe since finish never realy run only stay in cooner.
