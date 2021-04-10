@@ -34,11 +34,11 @@ Shis patiente is not endless and even i understant in appartment i cannot use it
 Lathe since finish never realy run only stay in cooner.
            
            SELLING
-I can help to new buyer manage by private carrier transport in Europe through Ireland,England,France,Nedherland,Germany,Polend,Czech republic,Slovak republic, meaby also Ukraine ,buyer from counry near by can meet this currier in diplay countries or manage they own currier .
-I will make proper wooden transpoting box and help with loading . Weight of all lathe with mill + box will around 160kg and sizes of box 50x60x140cm + drawers stand with tools 50x60x120 +- 80kg estimate cost of transport aroud 400 eu meaby less in the matter of the carrier.Can be take it like palet size
+I can help to new buyer manage by private carrier transport in Europe through Ireland,England,France,Nedherland,Germany,Polend,Czech republic,Slovak republic, meaby          also Ukraine ,buyer from counry near by can meet this currier in diplay countries or manage they own currier .
+I will make proper wooden transpoting box and help with loading . Weight of all lathe with mill + box will around 160kg and sizes of box 50x60x140cm + drawers stand          with tools 50x60x120 +- 80kg estimate cost of transport aroud 400 eu meaby less in the matter of the carrier.Can be take it like palet size.
 Every body is well come to inspect lathe it self in compliance with the safety regulations of covid .
 I live in Ireland Republic close Dublin , price for this lathe with equipment is 4000 eu or close i am open to negotiation.
-type of payment-transfer account to account directly , money to hand , buy thrue ebay and pay by paypal (price here will 14% higher)
+Type of payment-transfer account to account directly , money to hand , buy thrue ebay and pay by paypal (price here will 14% higher)
 
 
 
