@@ -87,7 +87,7 @@ CARRIGE AND APPRON
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/7.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/8.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/9.jpg" alt="drawing" width="100"/>
-<img src="<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/11.jpg" alt="drawing" width="100"/>" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/11.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/12%2C1.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/12%2C11.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/12.jpg" alt="drawing" width="100"/>
