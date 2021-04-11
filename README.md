@@ -160,10 +160,10 @@ ELETRIC PANEL + BUTTONS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171222_205137%20-%20kopie.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171222_205219%20-%20kopie.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/IMG_20190114_101655.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/P1080830.JPG" alt="drawing" width="100"/>
 
 FEEDING GEARBOX
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
+
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
