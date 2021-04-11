@@ -58,13 +58,13 @@ I START HERE:
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/9.jpg" alt="drawing" width="100"/>
 
 BED DISMANTLE AND GRINDING
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/1.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11%2C1AFER%20GRINDING.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11.2.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11.3.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11.4.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11.5.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/14.DONATE%20METRIC%20LATHE%20FOR%20CONVERSION.jpg" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
