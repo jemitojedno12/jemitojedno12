@@ -162,19 +162,21 @@ ELETRIC PANEL + BUTTONS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/IMG_20190114_101655.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/P1080830.JPG" alt="drawing" width="100"/>
 
-FEEDING GEARBOX
+FEEDING GEARBOX  
 
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/0%2C1.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/0%2C2.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/0%2C3.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(7).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(10).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(11).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(15).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(16).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(2).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(3).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(5).JPG" alt="drawing" width="100"/>
+
+HEADSTOCK ASSEMBLY  
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
