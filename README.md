@@ -39,11 +39,12 @@ Type of payment-transfer account to account directly , money to hand , buy thrue
 PICTURES GALERY  
 I START HERE:  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1%2C11.jpg" alt="drawing" width="100"/>  
-
-
-       
-
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1.jpg" alt="drawing" width="200"/>  
-
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1%2C12.jpg" width="100"/> 
+<img src="" width="100"/> 
+<img src="" width="100"/> 
+       <img src="" width="100"/> 
+<img src="" width="100"/> 
+<img src="" width="100"/>  
+<img src="" width="100"/> 
 
 # nadpis
