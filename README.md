@@ -69,8 +69,11 @@ BED DISMANTLING AND GRINDING
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/16.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/17.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/18.jpg" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/17%20(2).JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/2.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/3.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/4.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/5.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/7.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/8.jpg" alt="drawing" width="100"/>
+
