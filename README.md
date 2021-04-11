@@ -46,6 +46,7 @@ I START HERE:
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/13.jpg" width="100"/> 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/14.jpg" width="100"/> 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/blob/main/start%20here/15.jpg" width="100"/> 
+![start_caQtDM_7id](start%20here/15.jpg) 
 <img src=""drawing" width="100"/> 
 <img src=""drawing" width="100"/> 
 <img src=""drawing" width="100"/> 
