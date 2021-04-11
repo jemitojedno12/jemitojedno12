@@ -45,8 +45,7 @@ I START HERE:
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/11.jpg" width="100"/> 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/13.jpg" width="100"/> 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/14.jpg" width="100"/> 
-
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/15.jpg" alt="drawing" width="100"/> 
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/15.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/2.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/20161212_195234.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/20161212_195242.jpg" alt="drawing" width="100"/>
