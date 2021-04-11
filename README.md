@@ -146,3 +146,39 @@ COMPUUND REST ASSEMBLY
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200629_142649.jpg" alt="drawing" width="100"/>
 
 ELETRIC PANEL + BUTTONS
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(1).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(10).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(12).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(4).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(6).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(7).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(9).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171214_202328%20-%20kopie.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171214_233525%20-%20kopie.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171214_233613%20-%20kopie.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171214_235701%20-%20kopie.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171222_205137%20-%20kopie.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/20171222_205219%20-%20kopie.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/IMG_20190114_101655.jpg" alt="drawing" width="100"/>
+
+FEEDING GEARBOX
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
