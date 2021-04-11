@@ -57,9 +57,20 @@ I START HERE:
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/8.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/9.jpg" alt="drawing" width="100"/>
 
-                               
-                               
-                               
-
-
-#BED DISMANTLE AND GRINDING
+BED DISMANTLE AND GRINDING
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
