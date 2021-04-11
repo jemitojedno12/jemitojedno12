@@ -145,7 +145,7 @@ COMPUUND REST ASSEMBLY
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200625_134949.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200629_142649.jpg" alt="drawing" width="100"/>
 
-ELETRIC PANEL + BUTTONS
+ELETRIC PANEL + BUTTONS  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(1).jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(10).jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/1%20(12).jpg" alt="drawing" width="100"/>
