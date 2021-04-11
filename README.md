@@ -1,12 +1,12 @@
 # Emco maximat v10 Metric conversion ( NOW FOR SALE )
 I wanted to buy lathe in Metric scale ,but by my huge misstake and probably under influence of excitement, i am badly check up ,and after i brought it home i find out the lathe was in INCH ( what i will do ?) i never ever use inch scale in my life. I start search someting , what or who can help me sort out this proble.
 After while i find fantastic groupe of people aroud world which has similar type of lathes and they give me lot of answers and help me make decision - DO METRIC KONVERSION - first i start to investigate how much is lathe worn out , more important was bed, worn out was 0,10 -very bad - on main prismatic ways, on tailstock ways         was 0,01-not bad  ,spindle bearing ok but upgrade can only help. 
-I decise also replace all bronze bushes,bearings,gears and other damage or worn parts and bring lathe to very very close brand new specification even better.
+I decise also replace all bronze bushes,bearings,gears and other damage or worn parts and bring lathe to very very close brand new specification even better.  
 Huge problem was to find in Ireland some company which can regrinding bed with prismatic ways, afer 6 month searching and couple hundrits euro for telephone bill by call to Polend ,Czech Republic ,England and Slovak Republici find one for relativly reasonable price in czech republic, company with years of experience do this job , find some carrier was nex challenge .
 
 Every job which was done on lathe even is very smole was unbeliveble challenge ,if you have no friends around or somebody who can help you. Lot of parts was make by my friend ( turning and milling ) in my native country Czech Republic 3000 km fare a way, because in   
        ireland is this service very very expensive and not to easy find company close, if you have not information.
-Lathe has rechroming all hand wheels which are from zink-alu and very dificult to rechoreme and only one company is abble to do it in czech republic, preparation you can see on pictures. Paint is 3K poyuretane very durible an oil resistant i thing is beautiful.
+Lathe has rechroming all hand wheels which are from zink-alu and very dificult to rechoreme and only one company is abble to do it in czech republic, preparation you can see on pictures. Paint is 3K polyuretane hardenet very durible and oil resistant i thing is beautiful.
 All blackening parts which durin years lost black couting was restore by original methode HOT BLACKENING ( not by cold chemical bluening ) firs i send it to company which it prowided this service and later i lern how do it ,bought chemical salt end rest of parts i blackening my self.
          
          WHAT IS THE CONVERSION OF A MACHINE REPRESENTS : REPLACE-
@@ -126,9 +126,23 @@ CARRIGE AND APPRON
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/28.JPG" alt="drawing" width="100"/>
 
 COMPUUND REST ASSEMBLY  
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161126_161822.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161212_182959.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161214_211649.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161214_211732.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20171030_181813.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20171030_184425.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20171030_184437.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20171121_201149.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20171122_210732.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200504_210455.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200504_210512.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200504_210631.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200505_212129.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200505_212256.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200506_124308.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200621_172647.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200625_134949.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/IMG_20200629_142649.jpg" alt="drawing" width="100"/>
+
+ELETRIC PANEL + BUTTONS
