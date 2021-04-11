@@ -62,4 +62,4 @@ I START HERE:
                                
 
 
-# nadpis
+#BED DISMANTLE AND GRINDING
