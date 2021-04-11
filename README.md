@@ -45,14 +45,20 @@ I START HERE:
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/11.jpg" width="100"/> 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/13.jpg" width="100"/> 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/14.jpg" width="100"/> 
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/blob/main/start%20here/15.jpg" width="100"/> 
-![start_caQtDM_7id](start%20here/15.jpg) 
-<img src=""drawing" width="100"/> 
-<img src=""drawing" width="100"/> 
-<img src=""drawing" width="100"/> 
-<img src=""drawing" width="100"/> 
-<img src=""drawing" width="100"/> 
-<img src=""drawing" width="100"/>                                
+
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/15.jpg" alt="drawing" width="100"/> 
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/2.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/20161212_195234.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/20161212_195242.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/3.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/4.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/5.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/6.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/7.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/8.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/9.jpg" alt="drawing" width="100"/>
+
+                               
                                
                                
 
