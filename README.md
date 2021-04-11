@@ -58,6 +58,7 @@ I START HERE:
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/9.jpg" alt="drawing" width="100"/>
 
 BED DISMANTLING AND GRINDING
+
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/1.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11%2C1AFER%20GRINDING.JPG" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/11.2.JPG" alt="drawing" width="100"/>
