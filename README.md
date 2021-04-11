@@ -39,12 +39,21 @@ Type of payment-transfer account to account directly , money to hand , buy thrue
 PICTURES GALERY  
 I START HERE:  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1%2C11.jpg" alt="drawing" width="100"/>  
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1%2C12.jpg" width="200"/> 
-<img src="" width="100"/> 
-<img src="" width="100"/> 
-       <img src="" width="100"/> 
-<img src="" width="100"/> 
-<img src="" width="100"/>  
-<img src="" width="100"/> 
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1%2C12.jpg" width="200"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1.jpg"drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/10.jpg"drawing" width="100"/> 
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/11.jpg"drawing" width="100"/> 
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/13.jpg"drawing" width="100"/> 
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/14.jpg"drawing" width="100"/> 
+<img src="https://github.com/jemitojedno12/jemitojedno12/blob/main/start%20here/15.jpg?raw=true"drawing" width="100"/> 
+<img src=""drawing" width="100"/> 
+<img src=""drawing" width="100"/> 
+<img src=""drawing" width="100"/> 
+<img src=""drawing" width="100"/> 
+<img src=""drawing" width="100"/> 
+<img src=""drawing" width="100"/>                                
+                               
+                               
+
 
 # nadpis
