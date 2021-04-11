@@ -36,8 +36,8 @@ Every body is well come to inspect lathe it self in compliance with the safety r
 I live in Ireland Republic close Dublin , price for this lathe with equipment is 4000 eu or close i am open to negotiation.
 Type of payment-transfer account to account directly , money to hand , buy thrue ebay and pay by paypal (price here will 14% higher)
 
-PICTURES GALERY
-I START HERE:
+PICTURES GALERY  
+I START HERE:  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/start%20here/1%2C11.jpg" alt="drawing" width="200"/>  
 
 
