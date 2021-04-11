@@ -78,7 +78,7 @@ BED DISMANTLING AND GRINDING
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/17%20(2).JPG" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/17.jpg" alt="drawing" width="100"/>
 
-CARRIGE AD APPRON  
+CARRIGE AND APPRON  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/1.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/2.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/3.jpg" alt="drawing" width="100"/>
