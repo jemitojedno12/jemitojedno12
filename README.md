@@ -176,6 +176,72 @@ FEEDING GEARBOX
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/1%20(5).JPG" alt="drawing" width="100"/>
 
 HEADSTOCK ASSEMBLY  
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(1).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(12).JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(13).JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(14).JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(15).JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(16).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(17).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(22).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(24).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(38).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(4).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/1%20(8).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/2%20(3).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/2%20(2).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/3%20(4).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/3%20(6).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/4%20(2).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/4.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/IMG_20200729_143744.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/IMG_20200729_143939.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/IMG_20200729_144016.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/IMG_20200729_144021.jpg" alt="drawing" width="100"/>
+
+MILLING ATTACHMENT
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C11.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C112.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C1120.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C1122.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C1124.jpg" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C113.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C114.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C115.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C116.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C117.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C119.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20180104_233649.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20180109_200022.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20180109_200126.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/32.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/36.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/37.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/40.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/41.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/43%2C1.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/43%2C2.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/43%2C3.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/44%2C1.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/47.JPG" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/57.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20210117_124706.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20210117_125108.jpg" alt="drawing" width="100"/>
+
+220v MAIN MOTOR
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1%20(1).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1%20(2).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1%20(3).jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/20161216_193213.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/20161229_225137.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/20161229_225057.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/IMG_20200617_121621.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/IMG_20200617_121627.jpg" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/IMG_20200617_121807.jpg" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
 <img src="" alt="drawing" width="100"/>
