@@ -199,7 +199,7 @@ HEADSTOCK ASSEMBLY
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/IMG_20200729_144016.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/headstock%20assembly/IMG_20200729_144021.jpg" alt="drawing" width="100"/>
 
-MILLING ATTACHMENT
+MILLING ATTACHMENT  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C11.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C112.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/1%2C1120.jpg" alt="drawing" width="100"/>
@@ -229,8 +229,7 @@ MILLING ATTACHMENT
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20210117_124706.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/milling%20attachment/20210117_125108.jpg" alt="drawing" width="100"/>
 
-220v MAIN MOTOR    
-
+220v MAIN MOTOR      
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1%20(1).jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1%20(2).jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/220v%20maine%20motor/1%20(3).jpg" alt="drawing" width="100"/>
