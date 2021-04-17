@@ -49,19 +49,19 @@ i will response as soon as possibile and if you will very interesting to buy, cl
 Type of payment-transfer account to account directly , money to hand , buy thrue ebay and pay by paypal (price here will 14% higher)
 
        TECHNICAL DETAILS OF LATHE AND MILLING MACHINE
-       LATHE                                                                     MILLING MACHINE
-CENTRE DISTANCE - 650 mm                                   MAX.HIGHT FROM CROSSLIDE - 305mm
-BED WAYS        - HARDENED                                 CENTRE LINE FROM COLUMN  - 145mm
-CENTRE HEIGHT   - 127 mm                                   DRILLING STROKE          - 40
-SPINDLE NOSE    - M39X4  MORSE MT3                         SPINDLE TAPER            - MT2
-SPINDLE BEARING - ROLLER BEARING  2X                       SPEED                    - 4 SPEED- 350 640 780 1450     
-TEILSTOCK BARREL- MT2                                      POWER                    - 220V
-THREAD PITCHES  - 0,125-4,00                               WEIGHT                   - 36 Kg
-POWERED         - 220V - 0,4/0,55HP , 1400-2800 RPM        HIGHT                    - 755 mm COLUMN
-WEIGHT          - 120 Kg                                   
-LENGTH          - 1268 mm
-WITH            - 400 mm
-HIGHT           - 360 mm ( without milling machine )
+-----LATHE--------------------------------------------------|---------MILLING MACHINE-------------------|
+|CENTRE DISTANCE - 650 mm                                   |MAX.HIGHT FROM CROSSLIDE - 305mm           |
+|BED WAYS        - HARDENED                                 |CENTRE LINE FROM COLUMN  - 145mm           |
+|CENTRE HEIGHT   - 127 mm                                   |DRILLING STROKE          - 40              |
+|SPINDLE NOSE    - M39X4  MORSE MT3                         |SPINDLE TAPER            - MT2             |
+|TEILSTOCK BARREL- MT2                                      |POWER                    - 220V            | 
+|THREAD PITCHES  - 0,125-4,00                               |WEIGHT                   - 36 Kg           |
+|POWERED         - 220V - 0,4/0,55HP , 1400-2800 RPM        |HIGHT                    - 755 mm COLUMN   | 
+|WEIGHT          - 120 Kg                                   |
+|LENGTH          - 1268 mm                                  |
+|WITH            - 400 mm                                   |
+|HIGHT           - 360 mm ( without milling machine )       |
+ 
 
 
 PICTURES GALERY  
