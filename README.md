@@ -50,15 +50,18 @@ Type of payment-transfer account to account directly , money to hand , buy thrue
 
        TECHNICAL DETAILS OF LATHE AND MILLING MACHINE
        LATHE                                                                     MILLING MACHINE
-CENTRE DISTANCE - 650MM                                    MAX.HIGHT FROM CROSSLIDE - 305MM
-BED WAYS        - HARDENED                                 CENTRE LINE FROM COLUMN  - 145MM
-CENTRE HEIGHT   - 127MM                                    DRILLING STROKE          - 40
+CENTRE DISTANCE - 650 mm                                   MAX.HIGHT FROM CROSSLIDE - 305mm
+BED WAYS        - HARDENED                                 CENTRE LINE FROM COLUMN  - 145mm
+CENTRE HEIGHT   - 127 mm                                   DRILLING STROKE          - 40
 SPINDLE NOSE    - M39X4  MORSE MT3                         SPINDLE TAPER            - MT2
-SPINDLE BEARING - ROLLER BEARING                           SPEED                    - 4 SPEED- 350 640 780 1450     
+SPINDLE BEARING - ROLLER BEARING  2X                       SPEED                    - 4 SPEED- 350 640 780 1450     
 TEILSTOCK BARREL- MT2                                      POWER                    - 220V
-THREAD PITCHES  - 0,125-4,00
-VEIGHT          - 120KG
-POWERED         - 220V - 0,4/0,55HP , 1400-2800 RPM ,
+THREAD PITCHES  - 0,125-4,00                               WEIGHT                   - 36 Kg
+POWERED         - 220V - 0,4/0,55HP , 1400-2800 RPM        HIGHT                    - 755 mm COLUMN
+WEIGHT          - 120 Kg                                   
+LENGTH          - 1268 mm
+WITH            - 400 mm
+HIGHT           - 360 mm ( without milling machine )
 
 
 PICTURES GALERY  
