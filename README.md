@@ -1,5 +1,5 @@
 # Emco maximat v10 Metric conversion ( NOW FOR SALE )
-<img src="<img src=g" width="100"/>" width="100"/>
+https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/START%20PHOTO/NOV%C3%9D%201%2C1.jpg"drawing" width="100"/>
 
 I wanted to buy lathe in Metric scale ,but by my huge misstake and probably under influence of excitement, i am badly check up ,and after i brought it home i find out the lathe was in INCH ( what i will do ?) i never ever use inch scale in my life. I start search someting , what or who can help me sort out this proble.
 After while i find fantastic groupe of people aroud world which has similar type of lathes and they give me lot of answers and help me make decision - DO METRIC KONVERSION - first i start to investigate how much is lathe worn out , more important was bed, worn out was 0,10 -very bad - on main prismatic ways, on tailstock ways         was 0,01-not bad  ,spindle bearing ok but upgrade can only help. 
