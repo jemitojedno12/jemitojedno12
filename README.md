@@ -320,14 +320,14 @@ BED WAYS ACCURACY
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/8.jpg" alt="drawing" width="100"/>   https://youtu.be/78Clq95NG6w  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/7.jpg" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=GctE6iGn5Pw 
 
-HEADSTOCK SETTING  
+HEADSTOCK SETTING    
 
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1)%200%2C001%20SIDE%20BAR%20TEST%20RESULT%200%2C001.png" alt="drawing" width="100"/>    
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1)%20300mmTEST%20BAR%20RUN%20OUT%20(GAUGE%200%2C001)%20RESULT-0%2C004.png" alt="drawing" width="100"/>
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1.)%20GAUGE%200%2C001%20CLOSE%20TO%20SPINDLE%20NOSE%20%20RESULT-0%2C0001.png" alt="drawing" width="100"/>
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/11%2C)%20SPINDEL%20NOSE%20RUN%20OUT%20%20(GAUGE%200%2C01mm)%20RESULT%200%2C00.png" alt="drawing" width="100"/>
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/22)%20SPINDLE%20NOSE%20RUN%20OUT%20(GAUGE%200%2C0125%20mm)%20-%20RESULT%200%2C00.png" alt="drawing" width="100"/>
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/33.)%20IMPROVEMENTS%20300mm%20TEST%20BAR%20-RESULT%200%2C002.png" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1)%200%2C001%20SIDE%20BAR%20TEST%20RESULT%200%2C001.png" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=pUqLuoBm5Tw     
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1)%20300mmTEST%20BAR%20RUN%20OUT%20(GAUGE%200%2C001)%20RESULT-0%2C004.png" alt="drawing" width="100"/>  https://www.youtube.com/watch?v=6iJ3tO9JywU  
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1.)%20GAUGE%200%2C001%20CLOSE%20TO%20SPINDLE%20NOSE%20%20RESULT-0%2C0001.png" alt="drawing" width="100"/>  https://www.youtube.com/watch?v=9o6u0d1qysY  
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/11%2C)%20SPINDEL%20NOSE%20RUN%20OUT%20%20(GAUGE%200%2C01mm)%20RESULT%200%2C00.png" alt="drawing" width="100"/>  https://www.youtube.com/watch?v=6PfzCFxIPF8  
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/22)%20SPINDLE%20NOSE%20RUN%20OUT%20(GAUGE%200%2C0125%20mm)%20-%20RESULT%200%2C00.png" alt="drawing" width="100"/>  https://www.youtube.com/watch?v=twr2LHmIhEQ  
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/33.)%20IMPROVEMENTS%20300mm%20TEST%20BAR%20-RESULT%200%2C002.png" alt="drawing" width="100"/>  https://www.youtube.com/watch?v=HXaRU2uPpi8  
 
 TAILSTOCK SETTING
 
