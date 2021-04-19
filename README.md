@@ -314,11 +314,36 @@ TOOLS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/TOOLS/9%20(2).jpg" alt="drawing" width="100"/>
 
 ACCURATE SETTING VIDEOS  
-BED WAYS
+BED WAYS ACCURACY
 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/5.JPG" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=-oD4SPij-_o  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/8.jpg" alt="drawing" width="100"/>   https://youtu.be/78Clq95NG6w  
-<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/7.jpg" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=GctE6iGn5Pw  
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/7.jpg" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=GctE6iGn5Pw 
+
+HEADSTOCK SETTING  
+
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1)%200%2C001%20SIDE%20BAR%20TEST%20RESULT%200%2C001.png" alt="drawing" width="100"/>    
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1)%20300mmTEST%20BAR%20RUN%20OUT%20(GAUGE%200%2C001)%20RESULT-0%2C004.png" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/1.)%20GAUGE%200%2C001%20CLOSE%20TO%20SPINDLE%20NOSE%20%20RESULT-0%2C0001.png" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/11%2C)%20SPINDEL%20NOSE%20RUN%20OUT%20%20(GAUGE%200%2C01mm)%20RESULT%200%2C00.png" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/22)%20SPINDLE%20NOSE%20RUN%20OUT%20(GAUGE%200%2C0125%20mm)%20-%20RESULT%200%2C00.png" alt="drawing" width="100"/>
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/33.)%20IMPROVEMENTS%20300mm%20TEST%20BAR%20-RESULT%200%2C002.png" alt="drawing" width="100"/>
+
+TAILSTOCK SETTING
+
+
+
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+<img src="" alt="drawing" width="100"/>
+
 
 OLD CAMPARE WIT NEW  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/old%20campare%20wit%20new/1%2C12.jpg" alt="drawing" width="100"/>
