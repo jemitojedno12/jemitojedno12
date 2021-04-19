@@ -313,6 +313,10 @@ TOOLS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/TOOLS/9%20(1).jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/TOOLS/9%20(2).jpg" alt="drawing" width="100"/>
 
+ACCURATE SETTING VIDEOS 
+BED WAYS
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/5.JPG" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=-oD4SPij-_o
+
 OLD CAMPARE WIT NEW  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/old%20campare%20wit%20new/1%2C12.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/old%20campare%20wit%20new/1.jpg" alt="drawing" width="100"/>
