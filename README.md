@@ -317,6 +317,7 @@ ACCURATE SETTING VIDEOS
 BED WAYS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/5.JPG" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=-oD4SPij-_o
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/8.jpg" alt="drawing" width="100"/>   https://youtu.be/78Clq95NG6w
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/7.jpg" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=GctE6iGn5Pw
 
 OLD CAMPARE WIT NEW  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/old%20campare%20wit%20new/1%2C12.jpg" alt="drawing" width="100"/>
