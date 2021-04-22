@@ -13,7 +13,7 @@ Paint is 3K polyuretane hardenet very durible and oil resistant i thing is beaut
 All blackening parts which durin years lost black couting was restore by original methode HOT BLACKENING (not by cold chemical bluening ) firs i send it to company which it prowided this service and later i learn how do it ,bought chemical salt end rest of parts i blackening my self.
          
          WHAT IS THE CONVERSION OF A MACHINE REPRESENTS : REPLACE-
-metric quadrant arm ( you cen short inch one and make join link to ritch lock bolt in front ),all lead screws , scalen rings, all name plates, all leadscrews nodes, tailstock quil, feeding gearbox or all gears inside -case is same for both, half node.
+metric quadrant arm ( you cen short inch one and make join link to ritch locking bolt in front ),all lead screws , scalen rings, all name plates, all leadscrews nodes, tailstock quil, feeding gearbox or all gears inside -case is same for both, half node.
 If you like to buy new this parts ,cost can go over 2500 eu ( brand new ),so i decised to buy use parts or all lathe for parts .
 I was lucky and buy donation metric lathe for parts collection from England ,so most this parts i had and can continue my conversion. Unforunately some parts was worn so much they can't be use and i have to buy new ( gears,bearing,bushes,nodes has no sense to buy second hand or use ,because can be worn also ) so you ave to buy or make new one.
                        
