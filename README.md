@@ -331,19 +331,8 @@ HEADSTOCK SETTING
 
 TAILSTOCK SETTING
 
-
-
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-<img src="" alt="drawing" width="100"/>
-
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/TAILSTOCK-%20SIDE%20SETTING.png" alt="drawing" width="100"/>https://www.youtube.com/watch?v=gXgbWFd6lOk
+<img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/accurate%20setting/TAILSTOCK-TOP%20SETTING.png" alt="drawing" width="100"/>https://www.youtube.com/watch?v=gXgbWFd6lOk
 
 OLD CAMPARE WIT NEW  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/old%20campare%20wit%20new/1%2C12.jpg" alt="drawing" width="100"/>
