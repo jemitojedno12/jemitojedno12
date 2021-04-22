@@ -56,7 +56,7 @@ Type of payment-transfer account to account directly , money to hand , buy thrue
 | CENTRE HEIGHT   - 127 mm                                   | DRILLING STROKE          - 40             |
 | SPINDLE NOSE    - M39X4  MORSE MT3                         | SPINDLE TAPER            - MT2            |
 | TEILSTOCK BARREL- MT2                                      | POWER                    - 220V           | 
-| THREAD PITCHES  - 0,125-4,00                               | WEIGHT                   - 36 Kg          |
+| THREAD PITCHES  - 0,125-4,00 ( metric )                    | WEIGHT                   - 36 Kg          |
 | POWERED         - 220V - 0,4/0,55HP , 1400-2800 RPM        | HIGHT                    - 755 mm COLUMN  | 
 | WEIGHT          - 120 Kg                                   |
 | LENGTH          - 1268 mm                                  |
