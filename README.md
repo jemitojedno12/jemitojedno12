@@ -36,7 +36,7 @@ Lathe since finish never realy run only stay in cooner.
           WHAT I LEARN FROM THIS OVERHAULING 
 By lack of owners care , lot of lathes on market can have worn bedways even they bedways are hardenet, lathes like maximat 11 or v13 ( price between 4000 - 6500 eu ) also cheaper emcomat 7, 8 -- / maximat v10,v10p atc.. ( 800 - 3000 eu )can be worn around 0,1 mm which is lot-ASK ME HOW I KNOW IT , and owners just say ooah is ok not to bad and similar bullshit .You buy lathe for accuracy ,propably if you like to turn wood you don't need to bother about it . Befor you buy metal lathe and you look for accuracy, mention owher to proove it or try contact some company provide regrinding lathe bed ( ask if they do also prismatic ways not only flat ) and you will know price for if you need fixing this type of worn bed.
 From my experience i will NEVER EVER AGAINE BUY THIS TYPE OF WORN LATHE is no worth of hassle around it ,replacing bearings,bushes or lead screws,painting and other jobs are not so big problem .
-Videos about my lathe accuracy you can see on add links which will direct you to youtube ,videos are too big and i can place them here on github.
+Videos about my lathe accuracy you can see on add links which will direct you to youtube ,videos are too big and i can't place them here on github.
 
            SELLING
 I can help to new buyer manage by private carrier transport in Europe through Ireland,England,France,Nedherland,Germany,Polend,Czech republic,Slovak republic, meaby also Ukraine ,buyer from counry near by can meet this currier in display countries or manage his own currier .
