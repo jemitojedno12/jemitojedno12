@@ -314,7 +314,7 @@ TOOLS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/TOOLS/9%20(2).jpg" alt="drawing" width="100"/>
 
 ACCURATE SETTING VIDEOS  
-BED WAYS ACCURACY
+BED WAYS ACCURACY + BED GRINDING
 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/5.JPG" alt="drawing" width="100"/>   https://www.youtube.com/watch?v=-oD4SPij-_o  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/bed%20dismantling%20and%20grinding/8.jpg" alt="drawing" width="100"/>   https://youtu.be/78Clq95NG6w  
