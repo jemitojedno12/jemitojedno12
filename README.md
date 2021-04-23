@@ -1,4 +1,4 @@
-# Emco maximat v10 Metric conversion + restoration ( NOW FOR SALE ) 
+# Emco maximat v10 Metric conversion + restoration (NOW FOR SALE) 
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/START%20PHOTO/NOV%C3%9D%201%2C1.jpg"/>
 
 I wanted to buy lathe in Metric scale ,but by my huge misstake and probably under influence of excitement , i am badly check up it ,and after i brought it home i find out the lathe was in INCH ( what i will do ?) i never ever use inch scale in my life. I start search someting , what or who can help me sort out this problem.
