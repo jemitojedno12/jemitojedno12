@@ -45,7 +45,7 @@ Every body is well come to inspect lathe it self in compliance with the safety r
 I live in Ireland Republic close Dublin , price for this lathe with equipment is 4000 eu.
 You cen contact me by email :   romanfox1@email.cz  
   NOTE : FIRST PAY - FIRS TAKE IT 
-i will response as soon as possibile and if you will very interesting to buy, closer contact be provide.
+i will response as soon as possibile and if you will very interesting to buy, closer contact be provided.
 Type of payment-transfer account to account directly , money to hand , buy thrue ebay and pay by paypal (price here will 14% higher)
 
        TECHNICAL DETAILS OF LATHE AND MILLING MACHINE
