@@ -44,9 +44,9 @@ I will make proper wooden transpoting box and help with loading . Weight of all 
 Every body is well come to inspect lathe it self in compliance with the safety regulations of covid .
 I live in Ireland Republic close Dublin , price for this lathe with equipment is 4000 eu.
 You cen contact me by email :   romanfox1@email.cz  
-  NOTE : FIRST PAY - FIRS TAKE IT 
+  NOTE : FIRST PAY - FIRS TAKE IT + IF YOU DO NOT USE YOU CHANCE INSPECT LATHE PERSONALY- LATER REFUND IS NOT ACCEPT !!!! YOU ARE WELL COME INSPECT LATHE YOUR SELF OR BY YOUR INSTRUCTION I CAN MAKE VIDEO FOR YOU .
 i will response as soon as possibile and if you will very interesting to buy, closer contact be provided.
-Type of payment-transfer account to account directly , money to hand , buy thrue ebay and pay by paypal (price here will 14% higher)
+Type of payment-transfer account to account directly , money to hand or buy thrue ebay and pay by paypal  
 
        TECHNICAL DETAILS OF LATHE AND MILLING MACHINE
 |       LATHE                                                |         MILLING MACHINE                   |
