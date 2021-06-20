@@ -21,7 +21,7 @@ Most tools came from auction of companies specializeted in engeneering ,so for e
 Because GitHub has data restriction I choose only a few pictures from each part of the lathe, you can see how all processes run, some videos from the setting will display like links and will direct you to my youtube channel.
 
           WHY I HAVE TO SALE MY LATHE 
-Somebody will know it - it starts like passion and opportunity to fulfill your dream and then life properly kicks your ass and you have to reconsider your situation, so at this moment we had to move into a smaller apartment and the lathe is in our bedroom and my wife trip over the lathe from time to time and so HERE IS THE END OF STORY FOR ANY MENS TOY !!! Her patience is not endless and even I understand that in an apartment I cannot use it so I WOULD LIKE TO SELL IT !! I hope that somebody will, and take care of it as I did. Since lathe finish it never run and only sat in a corner.
+Somebody will know it - it starts like passion and opportunity to fulfill your dream and then life properly kicks your ass and you have to reconsider your situation, so at this moment we had to move into a smaller apartment and the lathe is in our bedroom and my wife trip over the lathe from time to time and so HERE IS THE END OF STORY FOR ANY MENS TOY !!! Her patience is not endless and even I understand that in an apartment I cannot use it so I WOULD LIKE TO SELL IT !!! I hope that somebody will, and take care of it as I did. Since lathe finish it never run and only sat in a corner.
 
           WHAT I LEARN FROM THIS OVERHAULING 
 
