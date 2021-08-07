@@ -138,7 +138,7 @@ CARRIGE AND APPRON
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/27%20(7).JPG" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/carrige%20and%20apron/28.JPG" alt="drawing" width="100"/>
 
-COMPUUND REST ASSEMBLY  
+COMPOUND REST ASSEMBLY  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161126_161822.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161212_182959.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/compound%20rest%20assembly/20161214_211649.jpg" alt="drawing" width="100"/>
@@ -175,7 +175,7 @@ ELETRIC PANEL + BUTTONS
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/IMG_20190114_101655.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/eletric%20panel%2Bbutttons/P1080830.JPG" alt="drawing" width="100"/>
 
-FEEDING GEARBOX    
+FEEDING GEARBOX - NORTON BOX  
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/0%2C1.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/0%2C2.jpg" alt="drawing" width="100"/>
 <img src="https://raw.githubusercontent.com/jemitojedno12/jemitojedno12/main/feeding%20gearbox/0%2C3.jpg" alt="drawing" width="100"/>
